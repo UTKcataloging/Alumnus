@@ -6,9 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="local">alum_1997summer</identifier>
-   <identifier type="filename">alum_1997summer_001.jp2</identifier>
-   <name type="corporate"
-         authority="naf"
+   <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/n85212742">
       <namePart>University of Tennessee (System). National Alumni Association.</namePart>
       <role>
@@ -24,7 +22,7 @@
    <typeOfResource>text</typeOfResource>
    <originInfo>
       <place supplied="yes">
-         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+         <placeTerm type="text">Knoxville (Tenn.)</placeTerm>
       </place>
       <publisher>University of Tennessee (System). National Alumni Association</publisher>
       <dateCreated>1997</dateCreated>
@@ -33,7 +31,6 @@
    <physicalDescription>
       <extent>1 magazine</extent>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
-      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <language>
@@ -43,7 +40,6 @@
    <note>Issue numbering varies.</note>
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
-      <url access="object in context" usage="primary display">http://diglib.lib.utk.edu/alumnus/main.php?bid=324</url>
    </location>
    <subject authority="lcsh">
       <topic>University of Tennessee (Knoxville campus)--Alumni and alumnae--Periodicals</topic>
@@ -60,9 +56,6 @@
          <nonSort>The </nonSort>
          <title>Tennessee Alumnus</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/alumnus/main.php</url>
-      </location>
    </relatedItem>
    <relatedItem type="series">
       <titleInfo>
@@ -75,7 +68,6 @@
          <detail type="issue">
             <number>Issue 3</number>
          </detail>
-         <date>1997 Summer</date>
       </part>
    </relatedItem>
    <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
